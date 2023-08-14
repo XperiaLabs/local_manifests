@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+ <!-- Device Tree -->
+ <project name="XperiaLabs/device_sony_pdx215-clo" path="device/sony/pdx215" remote="github" revision="uvite" />
+
+ <!-- Blobs -->
+ <project name="XperiaLabs/vendor_sony_pdx215-clo" path="vendor/sony/pdx215" remote="github" revision="61.2.A.0.472A" />
+
+ <!-- Hardware -->
+ <project name="XperiaLabs/hardware_sony" path="hardware/sony" remote="github" revision="UDC-CLO" />
+
+ <!-- Vendor Extra -->
+ <project name="XperiaLabs/vendor_sony_extra" path="vendor/sony/extra" remote="github" revision="UDC-CLO" />
+
+ <!-- Kernel -->
+ <project name="XperiaLabs/kernel_sony_sagami-clo" path="kernel/msm-5.4" remote="github" revision="uvite" />
+
+ <!-- CLO Dependencies -->
+ <project name="AOSPA/android_hardware_qcom_audio" path="vendor/qcom/opensource/audio-hal/primary-hal" remote="github" revision="uvite-888" />
+ <project name="AOSPA/android_hardware_qcom_media" path="hardware/qcom/media" remote="github" revision="uvite-888" />
+ <project name="AOSPA/android_vendor_qcom_opensource_audio-hal_st-hal" path="vendor/qcom/opensource/audio-hal/st-hal" remote="github" revision="uvite-888" />
+ <project name="AOSPA/android_hardware_qcom_display" path="hardware/qcom/display" remote="github" revision="uvite-888" />
+ <project name="AOSPA/android_hardware_qcom_gps" path="hardware/qcom/gps" remote="github" revision="uvite-888" />
+ <project name="AOSPA/android_vendor_nxp_opensource_hidlimpl" path="vendor/nxp/opensource/hidlimpl" remote="github" revision="uvite-SN100X-legacy" />
+ <project name="AOSPA/android_vendor_nxp_opensource_halimpl" path="vendor/nxp/opensource/halimpl" remote="github" revision="uvite-SN100X-legacy" />
+</manifest>
