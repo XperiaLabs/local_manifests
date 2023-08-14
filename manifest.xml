@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+ <remote fetch="https://github.com/XperiaLabs/" name="XperiaLabs" />
+
+ <!-- Device Tree -->
+ <project name="XperiaLabs/device_sony_pdx234" path="device/sony/pdx234" remote="github" revision="PE" />
+
+ <!-- Kernel -->
+ <project name="XperiaLabs/kernel_sony_yodo" path="kernel/sony/yodo" remote="github" revision="Tortilla-v1.0" />
+
+ <!-- Blobs -->
+ <project name="XperiaLabs/vendor_sony_yodo" path="vendor/sony/yodo" remote="github" revision="13_67.0.A.4.51" />
+
+ <!-- Hardware -->
+ <project name="XperiaLabs/hardware_sony" path="hardware/sony" remote="github" revision="Thirteen-Core" />
+</manifest>
