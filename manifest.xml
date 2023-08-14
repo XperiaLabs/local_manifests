@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+ <remote fetch="https://github.com/XperiaLabs/" name="XperiaLabs" />
+
+ <!-- Device Tree -->
+ <project name="XperiaLabs/device_sony_lena" path="device/sony/lena" remote="github" revision="PE" />
+
+ <!-- Blobs -->
+ <project name="XperiaLabs/vendor_sony_lena" path="vendor/sony/lena" remote="github" revision="13_62.2.A.0.481" />
+
+ <!-- Hardware -->
+ <project name="XperiaLabs/hardware_sony" path="hardware/sony" remote="github" revision="Thirteen-Core" />
+</manifest>
