@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+ <remote fetch="https://github.com/XperiaLabs/" name="XperiaLabs" />
+
+ <!-- Device Tree -->
+ <project name="XperiaLabs/device_sony_pdx215" path="device/sony/pdx215" remote="github" revision="PE" />
+
+ <!-- Kernel -->
+ <project name="XperiaLabs/kernel_sony_sagami" path="kernel/sony/sagami" remote="github" revision="Krispy-v1.3" />
+
+ <!-- Blobs -->
+ <project name="XperiaLabs/vendor_sony_sagami" path="vendor/sony/sagami" remote="github" revision="13_61.2.A.0.4XX" />
+
+ <!-- Hardware -->
+ <project name="XperiaLabs/hardware_sony" path="hardware/sony" remote="github" revision="Thirteen" />
+
+ <!-- Extra -->
+ <project name="XperiaLabs/vendor_sony_extra-sagami" path="vendor/sony/extra-sagami" remote="github" revision="Stable" />
+
+ <!-- Remove Qualcomm display -->
+ <remove-project name="hardware/qcom-caf/sm8350/display" />
+
+ <!-- Qualcomm Display -->
+ <project name="XperiaLabs/hardware_qcom_display" path="hardware/qcom-caf/sm8350/display" remote="github" revision="LA.UM.21000-merge" />
+</manifest>
