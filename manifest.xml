@@ -4,7 +4,7 @@
 
  <!-- Device Tree -->
  <!-- project name="XperiaLabs/device_sony_pdx215" path="device/sony/pdx215" remote="github" revision="PE" -->
- <project name="XperiaLabs/device_sony_pdx225" path="device/sony/pdx225" remote="github" revision="Evo14" />
+ <project name="XperiaLabs/device_sony_pdx225" path="device/sony/pdx225" remote="github" revision="PE" />
 
  <!-- Kernel -->
  <!-- project name="XperiaLabs/kernel_sony_sagami" path="kernel/sony/sagami" remote="github" revision="Krispy-v1.3" -->
