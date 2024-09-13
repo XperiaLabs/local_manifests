@@ -23,7 +23,6 @@
  <!-- CLO Dependencies -->
  <project name="AOSPA/android_hardware_qcom_audio" path="vendor/qcom/opensource/audio-hal/primary-hal" remote="github" revision="uvite-888" />
  <project name="AOSPA/android_hardware_qcom_media" path="hardware/qcom/media" remote="github" revision="uvite-888" />
- <project name="AOSPA/android_vendor_qcom_opensource_audio-hal_st-hal" path="vendor/qcom/opensource/audio-hal/st-hal" remote="github" revision="uvite-888" />
  <project name="AOSPA/android_hardware_qcom_display" path="hardware/qcom/display" remote="github" revision="uvite-888" />
  <project name="AOSPA/android_hardware_qcom_gps" path="hardware/qcom/gps" remote="github" revision="uvite-888" />
  <project name="AOSPA/android_vendor_nxp_opensource_hidlimpl" path="vendor/nxp/opensource/hidlimpl" remote="github" revision="uvite-SN100X-legacy" />
