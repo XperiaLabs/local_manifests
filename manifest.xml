@@ -2,7 +2,7 @@
 <manifest>
 
  <!-- Device Tree -->
- <project name="XperiaLabs/device_sony_pdx215-clo" path="device/sony/pdx215" remote="github" revision="uvite" />
+ <project name="XperiaLabs/device_sony_pdx215-clo" path="device/sony/pdx215" remote="github" revision="uvite-PenguinOS" />
 
  <!-- Blobs -->
  <project name="XperiaLabs/vendor_sony_pdx215-clo" path="vendor/sony/pdx215" remote="github" revision="61.2.A.0.472A" />
