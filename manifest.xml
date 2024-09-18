@@ -2,7 +2,7 @@
 <manifest>
 
  <!-- Device Tree -->
- <project name="XperiaLabs/device_sony_pdx215-clo" path="device/sony/pdx215" remote="github" revision="uvite" />
+ <project name="XperiaLabs/device_sony_pdx215-clo" path="device/sony/pdx215" remote="github" revision="vauxite" />
 
  <!-- Blobs -->
  <project name="XperiaLabs/vendor_sony_pdx215-clo" path="vendor/sony/pdx215" remote="github" revision="61.2.A.0.472A" />
@@ -18,13 +18,13 @@
  <project name="XperiaLabs/vendor_sony_extra" path="vendor/sony/extra" remote="github" revision="UDC-CLO" />
 
  <!-- Kernel -->
- <project name="XperiaLabs/kernel_sony_sagami-clo" path="kernel/msm-5.4" remote="github" revision="uvite" />
+ <project name="XperiaLabs/kernel_sony_sagami-clo" path="kernel/msm-5.4" remote="github" revision="vauxite" />
 
  <!-- CLO Dependencies -->
- <project name="AOSPA/android_hardware_qcom_audio" path="vendor/qcom/opensource/audio-hal/primary-hal" remote="github" revision="uvite-888" />
- <project name="AOSPA/android_hardware_qcom_media" path="hardware/qcom/media" remote="github" revision="uvite-888" />
- <project name="AOSPA/android_hardware_qcom_display" path="hardware/qcom/display" remote="github" revision="uvite-888" />
- <project name="AOSPA/android_hardware_qcom_gps" path="hardware/qcom/gps" remote="github" revision="uvite-888" />
- <project name="AOSPA/android_vendor_nxp_opensource_hidlimpl" path="vendor/nxp/opensource/hidlimpl" remote="github" revision="uvite-SN100X-legacy" />
- <project name="AOSPA/android_vendor_nxp_opensource_halimpl" path="vendor/nxp/opensource/halimpl" remote="github" revision="uvite-SN100X-legacy" />
+ <project name="AOSPA/android_hardware_qcom_audio" path="vendor/qcom/opensource/audio-hal/primary-hal" remote="github" revision="vauxite-888" />
+ <project name="AOSPA/android_hardware_qcom_media" path="hardware/qcom/media" remote="github" revision="vauxite-888" />
+ <project name="AOSPA/android_hardware_qcom_display" path="hardware/qcom/display" remote="github" revision="vauxite-888" />
+ <project name="AOSPA/android_hardware_qcom_gps" path="hardware/qcom/gps" remote="github" revision="vauxite-888" />
+ <project name="AOSPA/android_vendor_nxp_opensource_hidlimpl" path="vendor/nxp/opensource/hidlimpl" remote="github" revision="vauxite-SN100X-legacy" />
+ <project name="AOSPA/android_vendor_nxp_opensource_halimpl" path="vendor/nxp/opensource/halimpl" remote="github" revision="vauxite-SN100X-legacy" />
 </manifest>
